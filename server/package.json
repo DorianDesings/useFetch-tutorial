@@ -1,11 +1,10 @@
 {
-  "name": "plantilla-node",
+  "name": "primer-servidor-web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/app.js",
-    "server":"node src/app.js"
+    "dev": "nodemon src/app.js"
   },
   "author": "",
   "license": "ISC",
